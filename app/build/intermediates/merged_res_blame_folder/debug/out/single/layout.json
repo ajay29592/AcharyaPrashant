@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "me.acharya.mvvm.app-mergeDebugResources-32:/layout/top_headline_item_layout.xml",
+        "source": "me.acharya.mvvm.app-main-35:/layout/top_headline_item_layout.xml"
+    },
+    {
+        "merged": "me.acharya.mvvm.app-mergeDebugResources-32:/layout/activity_top_headline.xml",
+        "source": "me.acharya.mvvm.app-main-35:/layout/activity_top_headline.xml"
+    }
+]
